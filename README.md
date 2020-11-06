@@ -1,6 +1,6 @@
-# BitBoxApp
+# AlienVaultApp
 
-This repo contains the source code for the BitBoxApp and related tools.
+This repo contains the source code for the AlienVaultApp and related tools.
 
 ## Tech stack
 
